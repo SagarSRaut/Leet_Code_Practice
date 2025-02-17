@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SagarSRaut/Leet_Code_Practice/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SagarSRaut/Leet_Code_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/SagarSRaut/Leet_Code_Practice/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/SagarSRaut/Leet_Code_Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SagarSRaut/Leet_Code_Practice/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/SagarSRaut/Leet_Code_Practice/tree/master/0118-pascals-triangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SagarSRaut/Leet_Code_Practice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
